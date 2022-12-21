@@ -4,7 +4,7 @@ public class CollaborationTest {
 
 	public static void main(String[] args) 
 	{
-		System.out.println("Hello Anu from Ishuuu");
+		System.out.println("Hello Anu from Ishuuuuu");
 	}
 
 }
